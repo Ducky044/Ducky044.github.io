@@ -1,2 +1,2 @@
 Credit to ProProgramer123 (Matthew) for making this website. \
-Noctura: <a https://ducky044.github.io/crispy-telegram/>
+Noctura: <a href="https://github.com/Ducky044/crispy-telegram">https://github.com/Ducky044/crispy-telegram</a>
