@@ -1,3 +1,1 @@
-# ducky044.github.io
-
-Credit for ProProgramer123 (Matthew)
+Credit to ProProgramer123 (Matthew) for making this website
